@@ -42,4 +42,8 @@ next-env.d.ts
 
 #cursor_rules
 /.cursor
-/.cursor/cursor_rules
+/.cursor/rules
+
+#trae_rules
+/.trae
+/.trae/rules
