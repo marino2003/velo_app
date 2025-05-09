@@ -40,10 +40,10 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-#cursor_rules
-/.cursor
-/.cursor/rules
 
 #trae_rules
 /.trae
 /.trae/rules
+
+#gitignore
+.gitignore
